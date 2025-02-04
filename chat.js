@@ -1,3 +1,4 @@
+ HEAD
 import React, { useState } from "react";
 
 const Chats = () => {
@@ -31,3 +32,5 @@ const Chats = () => {
 };
 
 export default Chats;
+
+console.log("hey");
